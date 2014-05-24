@@ -12,6 +12,6 @@ chsh -s /bin/zsh
 
 
 # Set up GUI
-sudo apt-get install chromium-browser ratpoison pepperflashplugin-nonfree flashplugin-installer skype libpulse0:i386
+sudo apt-get install chromium-browser ratpoison pepperflashplugin-nonfree flashplugin-installer skype libpulse0:i386 conky
 sudo cp .ratpoison.desktop  /usr/share/xsessions/ratpoison.desktop
 

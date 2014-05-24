@@ -1,0 +1,12 @@
+exec rpws init 4 -a -k
+exec conky -c /home/bsh/.config/conky/conkyrc-top
+
+
+set padding 1 1 1 1
+set font Mono-10 
+set bargravity nw
+set bgcolor cyan
+startup_message off
+msgwait 2
+
+source .ratpoisonkeys
