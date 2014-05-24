@@ -1,4 +1,9 @@
 exec rpws init 4 -a -k
+
+#Set Capl loack as escape key
+remove lock = Caps_Lock
+keycode 66 = F13
+
 exec conky -c /home/bsh/.config/conky/conkyrc-top
 
 
@@ -9,4 +14,3 @@ set bgcolor cyan
 startup_message off
 msgwait 2
 
-source .ratpoisonkeys
