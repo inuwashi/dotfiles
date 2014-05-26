@@ -39,7 +39,7 @@ definekey top M-Tab next
 definekey top M-ISO_Left_Tab prev
 
 
-# To launch a Run box: winkey + spacebar
+# To launch a Run box: Meta + spacebar
 definekey top M-space exec 
 
 
@@ -70,7 +70,7 @@ rudeness 12
 bind u exec xchat
 bind b exec chromium-browser
 bind f exec wicd-client -n #Network and wifi mangment
-
+bind e exec geany
 
 # Conky is cool but I need to worn getting it to work propwrly
 #exec conky -c /home/bsh/.config/conky/conkyrc-top
