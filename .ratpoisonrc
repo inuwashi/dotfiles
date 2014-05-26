@@ -61,7 +61,7 @@ bind Delete exec sudo /sbin/shutdown -h now
 bind Escape abort
 bind C-k delete
 bind y time
-
+bind B exec acpi # Still dose not display FIXME
 
 rudeness 12
 
