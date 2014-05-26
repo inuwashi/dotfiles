@@ -1,25 +1,75 @@
 # Get 4 workspaces
-exec rpws init 4 -a -k
+exec rpws init 6 -a -k
 
-# Escape with C-d
-escape C-d
 
-# General settings 
-set font Mono-10 
-set bargravity nw
-set bgcolor cyan
+# Escape with left windows key
+escape Super_L
+
+alias reload exec ratpoison -c "source $HOME/.ratpoisonrc"
+
+warp off
 startup_message on
-msgwait 2
+set winname class
+defborder 0
+set padding 0 0 0 0
+defbarpadding 0 0
+exec xsetroot -solid black -cursor_name left_ptr
+bind semicolon colon
+set bargravity sw
+set winfmt %n %s %t
+set fgcolor #B8DDEA
+set bgcolor #343434
+set font "Terminus-12"
 
 
-# Section layouts 
+unbind k 
 
-bind F1 exec ratpoison -c "select -" -c "only" -c "next" -c "echo Fullscreen!"
-bind F2 exec ratpoison -c "select -" -c "only" -c "vsplit" -c "next" -c "echo Layout 1"
-bind F3 exec ratpoison -c "select -" -c "only" -c "hsplit" -c "next" -c "echo Layout 2"
-bind F4 exec ratpoison -c "select -" -c "only" -c "hsplit" -c "next" -c "focusright" -c "next" -c "vsplit" -c "next" -c "focusleft" -c "resize 200 -40" -c "next" -c "echo Layout 3"
-bind F5 exec ratpoison -c "select -" -c "only" -c "vsplit" -c "next" -c "hsplit" -c "next" -c "focusdown" -c "hsplit" -c "next" -c "echo Layout 4"
-bind F6 exec ratpoison -c "select -" -c "only" -c "vsplit" -c "next" -c "focusdown" -c "hsplit" -c "next" -c "echo Layout 5"
+#Focus
+bind k focusup
+bind j focusdown
+bind h focusleft
+bind l focusright
+bind J exchangedown
+bind K exchangeup
+bind H exchangeleft
+bind L exchangeright
+
+##Alt-tab
+definekey top M-Tab next
+definekey top M-ISO_Left_Tab prev
+
+
+# To launch a Run box: winkey + spacebar
+definekey top M-space exec 
+
+
+# Layouts [ ] [|] [|= [-] [+]
+bind F2 exec ratpoison -c "select -" -c "only" -c "next"
+bind F3 exec ratpoison -c "select -" -c "only" -c "hsplit" -c "next"
+bind F4 exec ratpoison -c "select -" -c "only" -c "hsplit" -c "next" -c "focusright" -c "next" -c "vsplit" -c "next"
+bind F4 exec ratpoison -c "select -" -c "only" -c "vsplit" -c "next"
+bind F6 exec ratpoison -c "select -" -c "only " -c "hsplit" -c next -c "vsplit" -c next -c "focusright" -c next -c "vsplit" -c "next"
+
+
+
+
+bind q remove
+
+bind r restart
+bind Delete exec sudo /sbin/shutdown -h now
+
+bind Escape abort
+bind C-k delete
+bind y time
+
+
+rudeness 12
+
+
+### Apps
+bind u exec xchat
+bind b exec chromium-browser
+bind f exec wicd-client -n #Network and wifi mangment
 
 
 # Conky is cool but I need to worn getting it to work propwrly
@@ -27,7 +77,4 @@ bind F6 exec ratpoison -c "select -" -c "only" -c "vsplit" -c "next" -c "focusdo
 
 
 
-# Key binding 
 
-#Network and wifi mangment
-bind C-f exec wicd-client -n
