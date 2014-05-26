@@ -1,16 +1,19 @@
 exec rpws init 4 -a -k
+escape C-d
 
-#Set Capl loack as escape key
-remove lock = Caps_Lock
-keycode 66 = F13
-
-exec conky -c /home/bsh/.config/conky/conkyrc-top
+#exec conky -c /home/bsh/.config/conky/conkyrc-top
 
 
-set padding 1 1 1 1
+#set padding 1 1 1 1
 set font Mono-10 
 set bargravity nw
 set bgcolor cyan
 startup_message off
 msgwait 2
 
+bind F1 exec ratpoison -c "select -" -c "only" -c "next" -c "echo Fullscreen!"
+bind F2 exec ratpoison -c "select -" -c "only" -c "vsplit" -c "next" -c "echo Layout 1"
+bind F3 exec ratpoison -c "select -" -c "only" -c "hsplit" -c "next" -c "echo Layout 2"
+bind F4 exec ratpoison -c "select -" -c "only" -c "hsplit" -c "next" -c "focusright" -c "next" -c "vsplit" -c "next" -c "focusleft" -c "resize 200 -40" -c "next" -c "echo Layout 3"
+bind F5 exec ratpoison -c "select -" -c "only" -c "vsplit" -c "next" -c "hsplit" -c "next" -c "focusdown" -c "hsplit" -c "next" -c "echo Layout 4"
+bind F6 exec ratpoison -c "select -" -c "only" -c "vsplit" -c "next" -c "focusdown" -c "hsplit" -c "next" -c "echo Layout 5"
