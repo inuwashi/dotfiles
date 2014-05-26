@@ -1,15 +1,18 @@
+# Get 4 workspaces
 exec rpws init 4 -a -k
+
+# Escape with C-d
 escape C-d
 
-#exec conky -c /home/bsh/.config/conky/conkyrc-top
-
-
-#set padding 1 1 1 1
+# General settings 
 set font Mono-10 
 set bargravity nw
 set bgcolor cyan
-startup_message off
+startup_message on
 msgwait 2
+
+
+# Section layouts 
 
 bind F1 exec ratpoison -c "select -" -c "only" -c "next" -c "echo Fullscreen!"
 bind F2 exec ratpoison -c "select -" -c "only" -c "vsplit" -c "next" -c "echo Layout 1"
@@ -17,3 +20,14 @@ bind F3 exec ratpoison -c "select -" -c "only" -c "hsplit" -c "next" -c "echo La
 bind F4 exec ratpoison -c "select -" -c "only" -c "hsplit" -c "next" -c "focusright" -c "next" -c "vsplit" -c "next" -c "focusleft" -c "resize 200 -40" -c "next" -c "echo Layout 3"
 bind F5 exec ratpoison -c "select -" -c "only" -c "vsplit" -c "next" -c "hsplit" -c "next" -c "focusdown" -c "hsplit" -c "next" -c "echo Layout 4"
 bind F6 exec ratpoison -c "select -" -c "only" -c "vsplit" -c "next" -c "focusdown" -c "hsplit" -c "next" -c "echo Layout 5"
+
+
+# Conky is cool but I need to worn getting it to work propwrly
+#exec conky -c /home/bsh/.config/conky/conkyrc-top
+
+
+
+# Key binding 
+
+#Network and wifi mangment
+bind C-f exec wicd-client -n
