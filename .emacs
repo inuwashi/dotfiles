@@ -2,20 +2,20 @@
 (setq default-major-mode 'text-mode)
 
 (custom-set-variables
-;; custom-set-variables was added by Custom -- don't edit or cut/paste it!
-;; Your init file should contain only one such instance.
-'(case-fold-search t)
-'(current-language-environment "UTF-8")
-'(default-input-method "rfc1345")
-'(font-lock-mode 1 t)
-'(global-font-lock-mode t nil (font-lock))
-'(setq font-lock-keywords t)
-'(show-paren-mode t t)
-'(transient-mark-mode t))
+ ;; custom-set-variables was added by Custom -- don't edit or cut/paste it!
+ ;; Your init file should contain only one such instance.
+ '(case-fold-search t)
+ '(current-language-environment "UTF-8")
+ '(default-input-method "rfc1345")
+ '(font-lock-mode 1 t)
+ '(global-font-lock-mode t nil (font-lock))
+ '(setq font-lock-keywords t)
+ '(show-paren-mode t t)
+ '(transient-mark-mode t))
 (custom-set-faces
-;; custom-set-faces was added by Custom -- don't edit or cut/paste it!
-;; Your init file should contain only one such instance.
-)
+ ;; custom-set-faces was added by Custom -- don't edit or cut/paste it!
+ ;; Your init file should contain only one such instance.
+ )
 
 
 
@@ -32,8 +32,8 @@
 (add-to-list 'auto-mode-alist '("\\.py$" . python-mode))
 (add-to-list 'interpreter-mode-alist '("python" . python-mode))
 (defun my-python-mode-hook ()
-(setq font-lock-keywords python-font-lock-keywords)
-(font-lock-mode 1))
+  (setq font-lock-keywords python-font-lock-keywords)
+  (font-lock-mode 1))
 (add-hook 'python-mode-hook 'my-python-mode-hook)
 (autoload 'pymacs-apply "pymacs")
 (autoload 'pymacs-call "pymacs")
@@ -69,7 +69,7 @@
 
 
 
-;;;; Spelling 
+;;;; Spelling
 ;;(setq ispell-dictionary "american")
 ;;(global-set-key "\M-s" 'ispell-buffer)
 ;; Dir scan
@@ -84,4 +84,19 @@
 ;;(add-hook 'html-mode-hook 'flyspell-prog-mode)
 ;;(add-hook 'js2-mode-hook 'flyspell-prog-mode)
 ;;(add-hook 'php-mode-hook 'flyspell-prog-mode)
+
+(load-theme 'tango-dark)
+
+(setq backup-directory-alist '(("." . "~/.emacs.d/backup"))
+      backup-by-copying t    ; Don't delink hardlinks
+      version-control t      ; Use version numbers on backups
+      delete-old-versions t  ; Automatically delete excess backups
+      kept-new-versions 20   ; how many of the newest versions to keep
+      kept-old-versions 5    ; and how many of the old
+      )
+
+(require 'linum)
+(global-linum-mode t)
+;; use customized linum-format: add a addition space after the line number
+(setq linum-format (lambda (line) (propertize (format (let ((w (length (number-to-string (count-lines (point-min) (point-max)))))) (concat "%" (number-to-string w) "d ")) line) 'face 'linum)))
 
