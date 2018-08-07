@@ -1,0 +1,18 @@
+{
+    "git.autofetch": true,
+    "python.venvPath": "/home/adam/.virtualenvs",
+    "cSpell.userWords": [
+        "chmod",
+        "gcloud",
+        "gsutil",
+        "rsync"
+    ],
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "git.enableSmartCommit": true,
+    "workbench.list.openMode": "doubleClick",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+
+
+}
