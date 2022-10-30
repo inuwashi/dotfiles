@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>Feeds</title>
+</head>
+<body>
+<outline title="Cars" text="Cars">
+<outline type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/cars" text="Cars – Ars Technica" title="Cars – Ars Technica" htmlUrl="https://arstechnica.com" />
+</outline>
+<outline text="It's Corg" title="It's Corg">
+<outline htmlUrl="https://thedailycorgi.com/" xmlUrl="https://thedailycorgi.com/feed" text="The Daily Corgi" type="rss" title="The Daily Corgi" />
+<outline htmlUrl="https://www.zhibit.org" title="The blog of Corgis by the Sea  10% Donated to Corgi help groups" type="rss" xmlUrl="https://www.zhibit.org/corgis/blog.rss" text="The blog of Corgis by the Sea  10% Donated to Corgi help groups" />
+</outline>
+<outline text="News" title="News">
+<outline htmlUrl="https://arstechnica.com" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/tech-policy" title="Policy – Ars Technica" text="Policy – Ars Technica" />
+<outline htmlUrl="https://dcist.com/" title="DCist" xmlUrl="https://dcist.com/feed" text="DCist" type="rss" />
+<outline type="rss" text="Pawprints" xmlUrl="https://www.nycsouthpaw.com/feed" htmlUrl="https://www.nycsouthpaw.com" title="Pawprints" />
+<outline title="Charlotte's Web Thoughts" type="rss" xmlUrl="https://charlotteclymer.substack.com/feed" htmlUrl="https://charlotteclymer.substack.com" text="Charlotte's Web Thoughts" />
+<outline title="The AP (Alex Pareene) Newsletter" text="The AP (Alex Pareene) Newsletter" htmlUrl="https://theap.substack.com" type="rss" xmlUrl="https://theap.substack.com/feed" />
+<outline title="YOU'RE PROBABLY GETTING SCREWED" htmlUrl="https://screwed.substack.com" text="YOU'RE PROBABLY GETTING SCREWED" type="rss" xmlUrl="https://screwed.substack.com/feed" />
+<outline title="The Register - Offbeat: Bootnotes" text="The Register - Offbeat: Bootnotes" type="rss" xmlUrl="https://www.theregister.com/offbeat/bootnotes/headlines.atom" htmlUrl="https://www.theregister.com/offbeat/bootnotes/" />
+<outline htmlUrl="https://www.theregister.com/offbeat/columnists/" xmlUrl="https://www.theregister.com/offbeat/columnists/headlines.atom" type="rss" text="The Register - Offbeat: Columnists" title="The Register - Offbeat: Columnists" />
+<outline type="rss" title="The Register - Offbeat: Legal" htmlUrl="https://www.theregister.com/offbeat/legal/" text="The Register - Offbeat: Legal" xmlUrl="https://www.theregister.com/offbeat/legal/headlines.atom" />
+</outline>
+<outline title="Science " text="Science ">
+<outline xmlUrl="https://feeds.arstechnica.com/arstechnica/science" type="rss" title="Science – Ars Technica" htmlUrl="https://arstechnica.com" text="Science – Ars Technica" />
+<outline type="rss" title="science.org" xmlUrl="https://www.science.org/rss/news_current.xml" htmlUrl="http://www.atypon.com" text="science.org" />
+<outline xmlUrl="https://www.newscientist.com/feed/home/?cmpid=RSS%7CNSNS-Home" text="New Scientist - Home" title="New Scientist - Home" htmlUrl="https://www.newscientist.com" type="rss" />
+<outline htmlUrl="https://scienceblog.com" xmlUrl="https://scienceblog.com/feed/" title="ScienceBlog.com" type="rss" text="ScienceBlog.com" />
+<outline text="NASA Breaking News" htmlUrl="http://www.nasa.gov/" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" title="NASA Breaking News" />
+<outline type="rss" text="NASA Image of the Day" title="NASA Image of the Day" xmlUrl="https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" htmlUrl="http://www.nasa.gov/" />
+<outline title="The Register - Offbeat: Science" text="The Register - Offbeat: Science" xmlUrl="https://www.theregister.com/offbeat/science/headlines.atom" type="rss" htmlUrl="https://www.theregister.com/offbeat/science/" />
+</outline>
+<outline title="Technology " text="Technology ">
+<outline text="Biz &amp; IT – Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/technology-lab" htmlUrl="https://arstechnica.com" title="Biz &amp; IT – Ars Technica" type="rss" />
+<outline xmlUrl="https://feeds.arstechnica.com/arstechnica/gadgets" type="rss" htmlUrl="https://arstechnica.com" title="Tech – Ars Technica" text="Tech – Ars Technica" />
+<outline text="apple – Ars Technica" htmlUrl="https://arstechnica.com" title="apple – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/apple" />
+<outline title="The Register - Off-Prem" text="The Register - Off-Prem" type="rss" htmlUrl="https://www.theregister.com/off_prem/" xmlUrl="https://www.theregister.com/off_prem/headlines.atom" />
+<outline title="The Register - On-Prem" type="rss" xmlUrl="https://www.theregister.com/on_prem/headlines.atom" text="The Register - On-Prem" htmlUrl="https://www.theregister.com/on_prem/" />
+<outline text="The Register - Software" xmlUrl="https://www.theregister.com/software/headlines.atom" type="rss" htmlUrl="https://www.theregister.com/software/" title="The Register - Software" />
+<outline xmlUrl="https://www.theregister.com/security/headlines.atom" title="The Register - Security" text="The Register - Security" htmlUrl="https://www.theregister.com/security/" type="rss" />
+<outline title="The Register - Offbeat: BOFH" xmlUrl="https://www.theregister.com/offbeat/bofh/headlines.atom" text="The Register - Offbeat: BOFH" type="rss" htmlUrl="https://www.theregister.com/offbeat/bofh/" />
+</outline>
+</body>
+</opml>
