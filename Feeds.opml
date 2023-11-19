@@ -2,25 +2,36 @@
 <opml version="1.0">
   <head>
     <title>RSS subscriptions for adam.grandt@gmail.com</title>
-    <dateCreated>Mon, 07 Nov 2022 17:46:42 +0000</dateCreated>
+    <dateCreated>Sun, 19 Nov 2023 17:35:53 +0000</dateCreated>
     <ownerEmail>adam.grandt@gmail.com</ownerEmail>
   </head>
   <body>
-<outline text="Freedom to Tinker" title="Freedom to Tinker" type="rss" xmlUrl="https://freedom-to-tinker.com/feed/" htmlUrl="https://freedom-to-tinker.com"/>
+<outline text="Freedom to Tinker" title="Freedom to Tinker" type="rss" xmlUrl="https://freedom-to-tinker.com/feed/" htmlUrl="https://freedom-to-tinker.com/"/>
 <outline text="Deeplinks" title="Deeplinks" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml" htmlUrl="https://www.eff.org/rss/updates.xml"/>
 <outline text="Learn Japanese Pod" title="Learn Japanese Pod" type="rss" xmlUrl="http://feeds.feedburner.com/learnjapanesepod" htmlUrl="http://learnjapanesepod.com"/>
+<outline text="Foreign Policy" title="Foreign Policy" type="rss" xmlUrl="https://foreignpolicy.com/feed/" htmlUrl="https://foreignpolicy.com"/>
 <outline text="EFF Action Center" title="EFF Action Center" type="rss" xmlUrl="https://act.eff.org/action.atom" htmlUrl="https://act.eff.org"/>
-<outline text="NASA Breaking News" title="NASA Breaking News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" htmlUrl="http://www.nasa.gov/"/>
-<outline text="NASA Image of the Day" title="NASA Image of the Day" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" htmlUrl="http://www.nasa.gov/"/>
+<outline text="NASA Breaking News" title="NASA Breaking News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" htmlUrl="https://www.nasa.gov"/>
+<outline text="NASA Image of the Day" title="NASA Image of the Day" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" htmlUrl="https://www.nasa.gov/image-of-the-day/"/>
 <outline text="Tofugu" title="Tofugu" type="rss" xmlUrl="https://www.tofugu.com/feed.xml" htmlUrl="https://www.tofugu.com/"/>
-<outline text="ScienceBlog.com" title="ScienceBlog.com" type="rss" xmlUrl="https://scienceblog.com/feed/" htmlUrl="https://scienceblog.com"/>
 <outline text="Job Openings at EFF" title="Job Openings at EFF" type="rss" xmlUrl="https://www.eff.org/about/opportunities/jobs/feed" htmlUrl="https://www.eff.org/about/opportunities/jobs/feed"/>
 <outline text="Cloud Native Computing Foundation" title="Cloud Native Computing Foundation" type="rss" xmlUrl="https://www.cncf.io/feed/" htmlUrl="https://www.cncf.io"/>
+<outline text="Undark Magazine" title="Undark Magazine" type="rss" xmlUrl="https://undark.org/feed/" htmlUrl="https://undark.org/"/>
 <outline text="The Practical Nomad" title="The Practical Nomad" type="rss" xmlUrl="https://hasbrouck.org/blog/index.rdf" htmlUrl="https://hasbrouck.org/blog/"/>
+<outline text="Bake from Scratch" title="Bake from Scratch" type="rss" xmlUrl="https://www.bakefromscratch.com/feed/" htmlUrl="https://bakefromscratch.com"/>
+<outline text="Foreign Policy Blogs" title="Foreign Policy Blogs" type="rss" xmlUrl="https://foreignpolicyblogs.com/feed/" htmlUrl="https://foreignpolicyblogs.com"/>
 <outline text="DCist" title="DCist" type="rss" xmlUrl="https://dcist.com/feed/" htmlUrl="https://dcist.com/"/>
-<outline text="New Scientist - Home" title="New Scientist - Home" type="rss" xmlUrl="https://www.newscientist.com/feed/home/?cmpid=RSS%7CNSNS-Home" htmlUrl="https://www.newscientist.com/"/>
+<outline text="Gothamist" title="Gothamist" type="rss" xmlUrl="https://gothamist.com/feed" htmlUrl="https://gothamist.com"/>
+<outline text="Chocolate Covered Katie" title="Chocolate Covered Katie" type="rss" xmlUrl="https://chocolatecoveredkatie.com/feed/" htmlUrl="https://chocolatecoveredkatie.com/"/>
+<outline text="Joy the Baker" title="Joy the Baker" type="rss" xmlUrl="https://joythebaker.com/feed/" htmlUrl="https://joythebaker.com/"/>
+<outline text="Bake or Break" title="Bake or Break" type="rss" xmlUrl="https://bakeorbreak.com/feed/" htmlUrl="https://bakeorbreak.com/"/>
+<outline text="News : NPR" title="News : NPR" type="rss" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1001"/>
+<outline text="Wild Fox Zen" title="Wild Fox Zen" type="rss" xmlUrl="https://www.patheos.com/blogs/wildfoxzen/feed" htmlUrl="https://www.patheos.com/blogs/wildfoxzen"/>
+<outline text="Culture : NPR" title="Culture : NPR" type="rss" xmlUrl="https://feeds.npr.org/1008/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1008"/>
 <outline text="The Register - Security" title="The Register - Security" type="rss" xmlUrl="https://www.theregister.com/security/headlines.atom" htmlUrl="https://www.theregister.com/security/"/>
+<outline text="The King Arthur Blog" title="The King Arthur Blog" type="rss" xmlUrl="https://www.kingarthurbaking.com/blog/feed" htmlUrl="https://www.kingarthurbaking.com/"/>
 <outline text="Japanese Level Up" title="Japanese Level Up" type="rss" xmlUrl="https://japaneselevelup.com/feed/" htmlUrl="https://japaneselevelup.com/"/>
+<outline text="Hummingbird High" title="Hummingbird High" type="rss" xmlUrl="https://www.hummingbirdhigh.com/feed" htmlUrl="https://www.hummingbirdhigh.com/"/>
 <outline text="The Register - Offbeat: Science" title="The Register - Offbeat: Science" type="rss" xmlUrl="https://www.theregister.com/offbeat/science/headlines.atom" htmlUrl="https://www.theregister.com/offbeat/science/"/>
 <outline text="The Register - On-Prem" title="The Register - On-Prem" type="rss" xmlUrl="https://www.theregister.com/on_prem/headlines.atom" htmlUrl="https://www.theregister.com/on_prem/"/>
 <outline text="The Register - Software" title="The Register - Software" type="rss" xmlUrl="https://www.theregister.com/software/headlines.atom" htmlUrl="https://www.theregister.com/software/"/>
@@ -37,24 +48,58 @@
 <outline text="The AP (Alex Pareene) Newsletter" title="The AP (Alex Pareene) Newsletter" type="rss" xmlUrl="https://theap.substack.com/feed" htmlUrl="https://theap.substack.com"/>
 <outline text="Cars – Ars Technica" title="Cars – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/cars" htmlUrl="https://arstechnica.com"/>
 <outline text="science.org" title="science.org" type="rss" xmlUrl="https://www.science.org/rss/news_current.xml" htmlUrl="https://www.science.org"/>
+<outline text="The Vanilla Bean Blog" title="The Vanilla Bean Blog" type="rss" xmlUrl="https://www.thevanillabeanblog.com/feed/" htmlUrl="https://www.thevanillabeanblog.com/"/>
 <outline text="The Register - Offbeat: BOFH" title="The Register - Offbeat: BOFH" type="rss" xmlUrl="https://www.theregister.com/offbeat/bofh/headlines.atom" htmlUrl="https://www.theregister.com/offbeat/bofh/"/>
 <outline text="The Register - Off-Prem" title="The Register - Off-Prem" type="rss" xmlUrl="https://www.theregister.com/off_prem/headlines.atom" htmlUrl="https://www.theregister.com/off_prem/"/>
+<outline text="Web3 is Going Just Great" title="Web3 is Going Just Great" type="rss" xmlUrl="https://web3isgoinggreat.com/feed.xml" htmlUrl="https://web3isgoinggreat.com"/>
 <outline text="YOU'RE PROBABLY GETTING SCREWED" title="YOU'RE PROBABLY GETTING SCREWED" type="rss" xmlUrl="https://screwed.substack.com/feed" htmlUrl="https://screwed.substack.com"/>
-<outline text="The blog of Corgis by the Sea  10% Donated to Corgi help groups" title="The blog of Corgis by the Sea  10% Donated to Corgi help groups" type="rss" xmlUrl="https://www.zhibit.org/corgis/blog.rss" htmlUrl="https://www.zhibit.org/corgis/blog"/>
 <outline text="The Register - Offbeat: Columnists" title="The Register - Offbeat: Columnists" type="rss" xmlUrl="https://www.theregister.com/offbeat/columnists/headlines.atom" htmlUrl="https://www.theregister.com/offbeat/columnists/"/>
-<outline text="The Daily Corgi" title="The Daily Corgi" type="rss" xmlUrl="https://thedailycorgi.com/feed" htmlUrl="https://thedailycorgi.com/"/>
 <outline text="Blog - Notes in Spanish" title="Blog - Notes in Spanish" type="rss" xmlUrl="https://www.notesinspanish.com/blog/feed/" htmlUrl="https://www.notesinspanish.com/blog/"/>
 <outline text="Comments on: Gritty Spanish Blog" title="Comments on: Gritty Spanish Blog" type="rss" xmlUrl="https://www.grittyspanish.com/gritty-spanish-blog/feed/" htmlUrl="https://www.grittyspanish.com/gritty-spanish-blog/"/>
 <outline text="JLPT TUTOR" title="JLPT TUTOR" type="rss" xmlUrl="https://jlpttutor.com/feed/" htmlUrl="https://jlpttutor.com"/>
 <outline text="Spanish Language Blog" title="Spanish Language Blog" type="rss" xmlUrl="https://blogs.transparent.com/spanish/feed/" htmlUrl="https://blogs.transparent.com/spanish"/>
-<outline text="Learn Spanish con Salsa" title="Learn Spanish con Salsa" type="rss" xmlUrl="https://www.learnspanishconsalsa.com/feed/" htmlUrl="https://www.learnspanishconsalsa.com/"/>
+<outline text="Learn Spanish con Salsa" title="Learn Spanish con Salsa" type="rss" xmlUrl="https://www.learnspanishconsalsa.com/feed/" htmlUrl="http://www.learnspanishconsalsa.com/"/>
 <outline text="The Shifted Librarian" title="The Shifted Librarian" type="rss" xmlUrl="https://theshiftedlibrarian.com/feed" htmlUrl="https://theshiftedlibrarian.com"/>
+<outline text="Teaching Blog" title="Teaching Blog" type="rss" xmlUrl="https://www.emptygatezen.com/blog.rss" htmlUrl="https://www.emptygatezen.com/blog.rss"/>
+<outline text="Teaching Blog - Kwan Um School of Zen" title="Teaching Blog - Kwan Um School of Zen" type="rss" xmlUrl="https://kwanumzen.org/teaching-blog?format=rss" htmlUrl="https://kwanumzen.org/teaching-blog/"/>
+<outline text="Zen Practice | Sangha News Journal" title="Zen Practice | Sangha News Journal" type="rss" xmlUrl="https://blogs.sfzc.org/blog/category/zen-practice/feed/" htmlUrl="https://blogs.sfzc.org"/>
+<outline text="Chan / Seon / Zen – Buddhism now" title="Chan / Seon / Zen – Buddhism now" type="rss" xmlUrl="https://buddhismnow.com/category/chan-seon-zen/feed/" htmlUrl="https://buddhismnow.com"/>
+<outline text="Comments on: Blog" title="Comments on: Blog" type="rss" xmlUrl="https://www.feedblitz.com/blog/feed/" htmlUrl="https://www.feedblitz.com/blog/"/>
+<outline text="Sally's Baking Addiction" title="Sally's Baking Addiction" type="rss" xmlUrl="https://feeds.feedburner.com/SallysBakingAddiction" htmlUrl="https://sallysbakingaddiction.com/"/>
+<outline text="Policy &amp; Politics Journal Blog" title="Policy &amp; Politics Journal Blog" type="rss" xmlUrl="https://policyandpoliticsblog.com/feed/" htmlUrl="https://policyandpoliticsblog.com"/>
+<outline text="Public Knowledge" title="Public Knowledge" type="rss" xmlUrl="https://publicknowledge.org/feed/" htmlUrl="https://publicknowledge.org/"/>
+<outline text="The Pantry Mama" title="The Pantry Mama" type="rss" xmlUrl="https://www.pantrymama.com/feed/" htmlUrl="https://www.pantrymama.com/"/>
+<outline text="ChainBaker" title="ChainBaker" type="rss" xmlUrl="https://www.chainbaker.com/feed/" htmlUrl="https://www.chainbaker.com/"/>
+<outline text="Brown Eyed Baker" title="Brown Eyed Baker" type="rss" xmlUrl="https://www.browneyedbaker.com/feed" htmlUrl="https://www.browneyedbaker.com/"/>
+<outline text="(No title)" title="(No title)" type="rss" xmlUrl="https://www.humblesu.com/feed/" htmlUrl="https://www.humblesu.com"/>
+<outline text="Pastry and Prose" title="Pastry and Prose" type="rss" xmlUrl="https://www.pastryandprose.com/feed/" htmlUrl="https://www.pastryandprose.com/"/>
+<outline text="Dr Doughlittle" title="Dr Doughlittle" type="rss" xmlUrl="https://drdoughlittle.com/feed/" htmlUrl="https://drdoughlittle.com/"/>
+<outline text="FED Mentor" title="FED Mentor" type="rss" xmlUrl="https://fedmentor.dev/feed/feed.xml" htmlUrl="https://fedmentor.dev"/>
+<outline text="Gourmet Baking" title="Gourmet Baking" type="rss" xmlUrl="https://gourmetbaking.blogspot.com/feeds/posts/default" htmlUrl="https://gourmetbaking.blogspot.com/"/>
+<outline text="Ed Zitron's Where's Your Ed At" title="Ed Zitron's Where's Your Ed At" type="rss" xmlUrl="https://wheresyoured.at/feed" htmlUrl="https://wheresyoured.at"/>
+<outline text="Public Interest Tech Webring - All Posts" title="Public Interest Tech Webring - All Posts" type="rss" xmlUrl="https://pitwebring.billhunt.dev/feed" htmlUrl="https://pitwebring.billhunt.dev/"/>
+<outline text="AllThingsTech Kbin" title="AllThingsTech Kbin" type="rss" xmlUrl="https://kbin.allthingstech.social/rss" htmlUrl="http://kbin.allthingstech.social"/>
+<outline text="404 Media" title="404 Media" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/"/>
+    <outline text="Baking" title="Baking">
+<outline text="Bake from Scratch" title="Bake from Scratch" type="rss" xmlUrl="https://www.bakefromscratch.com/feed/" htmlUrl="https://bakefromscratch.com"/>
+<outline text="Chocolate Covered Katie" title="Chocolate Covered Katie" type="rss" xmlUrl="https://chocolatecoveredkatie.com/feed/" htmlUrl="https://chocolatecoveredkatie.com/"/>
+<outline text="Joy the Baker" title="Joy the Baker" type="rss" xmlUrl="https://joythebaker.com/feed/" htmlUrl="https://joythebaker.com/"/>
+<outline text="Bake or Break" title="Bake or Break" type="rss" xmlUrl="https://bakeorbreak.com/feed/" htmlUrl="https://bakeorbreak.com/"/>
+<outline text="The King Arthur Blog" title="The King Arthur Blog" type="rss" xmlUrl="https://www.kingarthurbaking.com/blog/feed" htmlUrl="https://www.kingarthurbaking.com/"/>
+<outline text="Hummingbird High" title="Hummingbird High" type="rss" xmlUrl="https://www.hummingbirdhigh.com/feed" htmlUrl="https://www.hummingbirdhigh.com/"/>
+<outline text="The Vanilla Bean Blog" title="The Vanilla Bean Blog" type="rss" xmlUrl="https://www.thevanillabeanblog.com/feed/" htmlUrl="https://www.thevanillabeanblog.com/"/>
+<outline text="Comments on: Blog" title="Comments on: Blog" type="rss" xmlUrl="https://www.feedblitz.com/blog/feed/" htmlUrl="https://www.feedblitz.com/blog/"/>
+<outline text="Sally's Baking Addiction" title="Sally's Baking Addiction" type="rss" xmlUrl="https://feeds.feedburner.com/SallysBakingAddiction" htmlUrl="https://sallysbakingaddiction.com/"/>
+<outline text="The Pantry Mama" title="The Pantry Mama" type="rss" xmlUrl="https://www.pantrymama.com/feed/" htmlUrl="https://www.pantrymama.com/"/>
+<outline text="ChainBaker" title="ChainBaker" type="rss" xmlUrl="https://www.chainbaker.com/feed/" htmlUrl="https://www.chainbaker.com/"/>
+<outline text="Brown Eyed Baker" title="Brown Eyed Baker" type="rss" xmlUrl="https://www.browneyedbaker.com/feed" htmlUrl="https://www.browneyedbaker.com/"/>
+<outline text="(No title)" title="(No title)" type="rss" xmlUrl="https://www.humblesu.com/feed/" htmlUrl="https://www.humblesu.com"/>
+<outline text="Pastry and Prose" title="Pastry and Prose" type="rss" xmlUrl="https://www.pastryandprose.com/feed/" htmlUrl="https://www.pastryandprose.com/"/>
+<outline text="Dr Doughlittle" title="Dr Doughlittle" type="rss" xmlUrl="https://drdoughlittle.com/feed/" htmlUrl="https://drdoughlittle.com/"/>
+<outline text="Gourmet Baking" title="Gourmet Baking" type="rss" xmlUrl="https://gourmetbaking.blogspot.com/feeds/posts/default" htmlUrl="https://gourmetbaking.blogspot.com/"/>
+    </outline>
     <outline text="Cars" title="Cars">
 <outline text="Cars – Ars Technica" title="Cars – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/cars" htmlUrl="https://arstechnica.com"/>
-    </outline>
-    <outline text="It's Corg" title="It's Corg">
-<outline text="The blog of Corgis by the Sea  10% Donated to Corgi help groups" title="The blog of Corgis by the Sea  10% Donated to Corgi help groups" type="rss" xmlUrl="https://www.zhibit.org/corgis/blog.rss" htmlUrl="https://www.zhibit.org/corgis/blog"/>
-<outline text="The Daily Corgi" title="The Daily Corgi" type="rss" xmlUrl="https://thedailycorgi.com/feed" htmlUrl="https://thedailycorgi.com/"/>
     </outline>
     <outline text="Japanese" title="Japanese">
 <outline text="Learn Japanese Pod" title="Learn Japanese Pod" type="rss" xmlUrl="http://feeds.feedburner.com/learnjapanesepod" htmlUrl="http://learnjapanesepod.com"/>
@@ -67,9 +112,14 @@
     </outline>
     <outline text="News" title="News">
 <outline text="Deeplinks" title="Deeplinks" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml" htmlUrl="https://www.eff.org/rss/updates.xml"/>
+<outline text="Foreign Policy" title="Foreign Policy" type="rss" xmlUrl="https://foreignpolicy.com/feed/" htmlUrl="https://foreignpolicy.com"/>
 <outline text="EFF Action Center" title="EFF Action Center" type="rss" xmlUrl="https://act.eff.org/action.atom" htmlUrl="https://act.eff.org"/>
 <outline text="The Practical Nomad" title="The Practical Nomad" type="rss" xmlUrl="https://hasbrouck.org/blog/index.rdf" htmlUrl="https://hasbrouck.org/blog/"/>
+<outline text="Foreign Policy Blogs" title="Foreign Policy Blogs" type="rss" xmlUrl="https://foreignpolicyblogs.com/feed/" htmlUrl="https://foreignpolicyblogs.com"/>
 <outline text="DCist" title="DCist" type="rss" xmlUrl="https://dcist.com/feed/" htmlUrl="https://dcist.com/"/>
+<outline text="Gothamist" title="Gothamist" type="rss" xmlUrl="https://gothamist.com/feed" htmlUrl="https://gothamist.com"/>
+<outline text="News : NPR" title="News : NPR" type="rss" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1001"/>
+<outline text="Culture : NPR" title="Culture : NPR" type="rss" xmlUrl="https://feeds.npr.org/1008/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1008"/>
 <outline text="Pawprints" title="Pawprints" type="rss" xmlUrl="https://www.nycsouthpaw.com/feed" htmlUrl="https://www.nycsouthpaw.com"/>
 <outline text="The Register - Offbeat: Bootnotes" title="The Register - Offbeat: Bootnotes" type="rss" xmlUrl="https://www.theregister.com/offbeat/bootnotes/headlines.atom" htmlUrl="https://www.theregister.com/offbeat/bootnotes/"/>
 <outline text="Charlotte's Web Thoughts" title="Charlotte's Web Thoughts" type="rss" xmlUrl="https://charlotteclymer.substack.com/feed" htmlUrl="https://charlotteclymer.substack.com"/>
@@ -79,12 +129,15 @@
 <outline text="YOU'RE PROBABLY GETTING SCREWED" title="YOU'RE PROBABLY GETTING SCREWED" type="rss" xmlUrl="https://screwed.substack.com/feed" htmlUrl="https://screwed.substack.com"/>
 <outline text="The Register - Offbeat: Columnists" title="The Register - Offbeat: Columnists" type="rss" xmlUrl="https://www.theregister.com/offbeat/columnists/headlines.atom" htmlUrl="https://www.theregister.com/offbeat/columnists/"/>
 <outline text="The Shifted Librarian" title="The Shifted Librarian" type="rss" xmlUrl="https://theshiftedlibrarian.com/feed" htmlUrl="https://theshiftedlibrarian.com"/>
+<outline text="Policy &amp; Politics Journal Blog" title="Policy &amp; Politics Journal Blog" type="rss" xmlUrl="https://policyandpoliticsblog.com/feed/" htmlUrl="https://policyandpoliticsblog.com"/>
+<outline text="Public Knowledge" title="Public Knowledge" type="rss" xmlUrl="https://publicknowledge.org/feed/" htmlUrl="https://publicknowledge.org/"/>
+    </outline>
+    <outline text="OSE" title="OSE">
     </outline>
     <outline text="Science" title="Science">
-<outline text="NASA Breaking News" title="NASA Breaking News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" htmlUrl="http://www.nasa.gov/"/>
-<outline text="NASA Image of the Day" title="NASA Image of the Day" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" htmlUrl="http://www.nasa.gov/"/>
-<outline text="ScienceBlog.com" title="ScienceBlog.com" type="rss" xmlUrl="https://scienceblog.com/feed/" htmlUrl="https://scienceblog.com"/>
-<outline text="New Scientist - Home" title="New Scientist - Home" type="rss" xmlUrl="https://www.newscientist.com/feed/home/?cmpid=RSS%7CNSNS-Home" htmlUrl="https://www.newscientist.com/"/>
+<outline text="NASA Breaking News" title="NASA Breaking News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" htmlUrl="https://www.nasa.gov"/>
+<outline text="NASA Image of the Day" title="NASA Image of the Day" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" htmlUrl="https://www.nasa.gov/image-of-the-day/"/>
+<outline text="Undark Magazine" title="Undark Magazine" type="rss" xmlUrl="https://undark.org/feed/" htmlUrl="https://undark.org/"/>
 <outline text="The Register - Offbeat: Science" title="The Register - Offbeat: Science" type="rss" xmlUrl="https://www.theregister.com/offbeat/science/headlines.atom" htmlUrl="https://www.theregister.com/offbeat/science/"/>
 <outline text="Science – Ars Technica" title="Science – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/science" htmlUrl="https://arstechnica.com"/>
 <outline text="science.org" title="science.org" type="rss" xmlUrl="https://www.science.org/rss/news_current.xml" htmlUrl="https://www.science.org"/>
@@ -93,10 +146,10 @@
 <outline text="Blog - Notes in Spanish" title="Blog - Notes in Spanish" type="rss" xmlUrl="https://www.notesinspanish.com/blog/feed/" htmlUrl="https://www.notesinspanish.com/blog/"/>
 <outline text="Comments on: Gritty Spanish Blog" title="Comments on: Gritty Spanish Blog" type="rss" xmlUrl="https://www.grittyspanish.com/gritty-spanish-blog/feed/" htmlUrl="https://www.grittyspanish.com/gritty-spanish-blog/"/>
 <outline text="Spanish Language Blog" title="Spanish Language Blog" type="rss" xmlUrl="https://blogs.transparent.com/spanish/feed/" htmlUrl="https://blogs.transparent.com/spanish"/>
-<outline text="Learn Spanish con Salsa" title="Learn Spanish con Salsa" type="rss" xmlUrl="https://www.learnspanishconsalsa.com/feed/" htmlUrl="https://www.learnspanishconsalsa.com/"/>
+<outline text="Learn Spanish con Salsa" title="Learn Spanish con Salsa" type="rss" xmlUrl="https://www.learnspanishconsalsa.com/feed/" htmlUrl="http://www.learnspanishconsalsa.com/"/>
     </outline>
     <outline text="Technology" title="Technology">
-<outline text="Freedom to Tinker" title="Freedom to Tinker" type="rss" xmlUrl="https://freedom-to-tinker.com/feed/" htmlUrl="https://freedom-to-tinker.com"/>
+<outline text="Freedom to Tinker" title="Freedom to Tinker" type="rss" xmlUrl="https://freedom-to-tinker.com/feed/" htmlUrl="https://freedom-to-tinker.com/"/>
 <outline text="Cloud Native Computing Foundation" title="Cloud Native Computing Foundation" type="rss" xmlUrl="https://www.cncf.io/feed/" htmlUrl="https://www.cncf.io"/>
 <outline text="The Register - Security" title="The Register - Security" type="rss" xmlUrl="https://www.theregister.com/security/headlines.atom" htmlUrl="https://www.theregister.com/security/"/>
 <outline text="The Register - On-Prem" title="The Register - On-Prem" type="rss" xmlUrl="https://www.theregister.com/on_prem/headlines.atom" htmlUrl="https://www.theregister.com/on_prem/"/>
@@ -107,6 +160,19 @@
 <outline text="apple – Ars Technica" title="apple – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/apple" htmlUrl="https://arstechnica.com"/>
 <outline text="The Register - Offbeat: BOFH" title="The Register - Offbeat: BOFH" type="rss" xmlUrl="https://www.theregister.com/offbeat/bofh/headlines.atom" htmlUrl="https://www.theregister.com/offbeat/bofh/"/>
 <outline text="The Register - Off-Prem" title="The Register - Off-Prem" type="rss" xmlUrl="https://www.theregister.com/off_prem/headlines.atom" htmlUrl="https://www.theregister.com/off_prem/"/>
+<outline text="Web3 is Going Just Great" title="Web3 is Going Just Great" type="rss" xmlUrl="https://web3isgoinggreat.com/feed.xml" htmlUrl="https://web3isgoinggreat.com"/>
+<outline text="FED Mentor" title="FED Mentor" type="rss" xmlUrl="https://fedmentor.dev/feed/feed.xml" htmlUrl="https://fedmentor.dev"/>
+<outline text="Ed Zitron's Where's Your Ed At" title="Ed Zitron's Where's Your Ed At" type="rss" xmlUrl="https://wheresyoured.at/feed" htmlUrl="https://wheresyoured.at"/>
+<outline text="Public Interest Tech Webring - All Posts" title="Public Interest Tech Webring - All Posts" type="rss" xmlUrl="https://pitwebring.billhunt.dev/feed" htmlUrl="https://pitwebring.billhunt.dev/"/>
+<outline text="AllThingsTech Kbin" title="AllThingsTech Kbin" type="rss" xmlUrl="https://kbin.allthingstech.social/rss" htmlUrl="http://kbin.allthingstech.social"/>
+<outline text="404 Media" title="404 Media" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/"/>
+    </outline>
+    <outline text="Zen" title="Zen">
+<outline text="Wild Fox Zen" title="Wild Fox Zen" type="rss" xmlUrl="https://www.patheos.com/blogs/wildfoxzen/feed" htmlUrl="https://www.patheos.com/blogs/wildfoxzen"/>
+<outline text="Teaching Blog" title="Teaching Blog" type="rss" xmlUrl="https://www.emptygatezen.com/blog.rss" htmlUrl="https://www.emptygatezen.com/blog.rss"/>
+<outline text="Teaching Blog - Kwan Um School of Zen" title="Teaching Blog - Kwan Um School of Zen" type="rss" xmlUrl="https://kwanumzen.org/teaching-blog?format=rss" htmlUrl="https://kwanumzen.org/teaching-blog/"/>
+<outline text="Zen Practice | Sangha News Journal" title="Zen Practice | Sangha News Journal" type="rss" xmlUrl="https://blogs.sfzc.org/blog/category/zen-practice/feed/" htmlUrl="https://blogs.sfzc.org"/>
+<outline text="Chan / Seon / Zen – Buddhism now" title="Chan / Seon / Zen – Buddhism now" type="rss" xmlUrl="https://buddhismnow.com/category/chan-seon-zen/feed/" htmlUrl="https://buddhismnow.com"/>
     </outline>
   </body>
 </opml>
